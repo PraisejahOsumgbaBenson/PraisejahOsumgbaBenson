@@ -1,6 +1,5 @@
 ## Hi, I'm Praisejah!
 👩🏾‍💻 Software Engineer sharing my journey and learning  in tech<br/>
-👩🏽‍🏫 Studying Computer Science at the University of the People<br/>
 
 ## 🔍 What You’ll Find Here 
 > - Projects that reflect my curiosity and love for problem-solving.  
